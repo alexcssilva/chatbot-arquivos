@@ -46,7 +46,7 @@ def gradio_wrapper(message, _history):
 # Crie e lance a interface do chat com suporte a arquivos
 chat_interface = gr.ChatInterface(
    fn=gradio_wrapper,
-   title="Chatbot com Suporte a Arquivos 🤖",
+   title="Chatbot com Suporte a Arquivos 🤖 - Author - Alex Silva",
    multimodal=True
 )
 # Inicie a interface
