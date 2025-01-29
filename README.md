@@ -4,7 +4,7 @@ Um chatbot inteligente desenvolvido em Python que pode processar e analisar dive
 
 ## Preview
 
-![demonstracao](./assets/chatbot.gif)
+![demonstracao](./assets/chat-bot.gif)
 
 ## 🌟 Características
 
