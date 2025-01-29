@@ -2,6 +2,10 @@
 
 Um chatbot inteligente desenvolvido em Python que pode processar e analisar diversos tipos de arquivos usando a API do Google Gemini e interface Gradio.
 
+## Preview
+
+![demonstracao](./assets/chat-bot.mp4)
+
 ## 🌟 Características
 
 - Interface gráfica intuitiva e responsiva
