@@ -55,12 +55,13 @@ python app.py
 3. Anexe arquivos usando o botão de clipe (📎)
 4. Envie e receba respostas contextualizadas do chatbot
 
-## 📝 Licença
 
-Este projeto está sob a licença MIT.
 
 ## 👤 Autor
 
 ---
 
-Desenvolvido por Alex Silva - [@alexcssilva](https://github.com/alexcssilva)
+📌 Desenvolvido por Alex Silva - [Github: alexcssilva](https://github.com/alexcssilva)
+📌 [LinkedIn: alexcssilva](https://www.linkedin.com/in/alexcssilva/)
+
+---
